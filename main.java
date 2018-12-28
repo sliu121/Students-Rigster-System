@@ -29,7 +29,9 @@ public class main {
             String passwordString = new String(passwordChars);
 
             OracleDataSource ds = new oracle.jdbc.pool.OracleDataSource();
-            ds.setURL("jdbc:oracle:thin:@castor.cc.binghamton.edu:1521:ACAD111");
+            /***/
+            // ds.setURL("");  Here is for you to get a connection with your Oracle.
+            /***/
             Connection conn = ds.getConnection(id_String, passwordString);
 
             // a menu first//
