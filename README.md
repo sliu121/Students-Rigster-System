@@ -34,3 +34,6 @@ Each tuple in the logs table describes who `(op_name - the login name of a datab
 *Implement an interactive and menu-driven interface in the bingsuns environment using Java and JDBC*
 
 The basic requirement for the UI is a text-based menu-driven interface. It displays menu options for a user to select. An option may have sub-options depending on requirements. Once a final option is selected, the interface may prompt the user to enter parameter values from the terminal. As an example, for enrolling a student into a class, the parameter values include StudentID and classid. Then an operation corresponding to the selected option will be performed with appropriate message displayed.
+
+
+I said Heyaaa
